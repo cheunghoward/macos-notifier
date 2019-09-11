@@ -7,7 +7,7 @@ Tested using Python 3.7
 
 To run on a business day basis, run `crontab -e` and add the following line: 
 
-`0 10 * * 1-5 python ~/countdown.py`
+`0 10 * * 1-5 python ~/notifier.py`
 
 
 
